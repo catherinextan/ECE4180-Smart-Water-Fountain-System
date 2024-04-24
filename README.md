@@ -61,6 +61,30 @@ As full-time college students, we are busy and out of the house often. Sometimes
 | DAT  | p5  |
 | CLK  | p6  |
 | GND  | GND  |
+3. Wire the RGB LED to the mbed LPC1768
+   - **note that our RGB LED had a common cathode going to GND
+   - **also ensure that each R/G/B pin on the LED is connected in series with 100Ohm resistor
 
+| RGB LED  | mbed |
+| ------------- | ------------- |
+| R pin  | p21  |
+| common cathode  | GND  |
+| G pin  | p22  |
+| B pin  | p23  |
+4. Wire the Speaker to the Class D Audio Amp
+
+| Speaker  | Class D Audio Amp |
+| ------------- | ------------- |
+| +  | out+  |
+| -  | out-  |
+5. Wire the Class D Audio Amp to the mbed LPC1768
+
+| Class D Audio Amp  | mbed |
+| ------------- | ------------- |
+| pwr-  | GND  |
+| in-  | GND  |
+| pwr+  | 3.3V Vout  |
+| in+  | p18  |
+| S  | p14  |
 
 
