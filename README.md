@@ -16,5 +16,7 @@ Spring 2024
 - 1x [mbed LPC1768](https://www.sparkfun.com/products/retired/9564)
 - 1x [Sparkfun Accessories Speaker - PCB Mount](https://www.electromaker.io/shop/product/speaker-pcb-mount?gad_source=1&gclid=CjwKCAjwuJ2xBhA3EiwAMVjkVEWHcDyhnI3EJPf082CJfzoy2JA1GvtTF2LUusRH2YvoY_jHlv0_uRoCpioQAvD_BwE)
 - 1x [Sparkfun Mono Audio Amp Breakout - TPA2005D1](https://www.sparkfun.com/products/11044)
-- 2x flat, sturdy platforms
+## Structural Parts List:
+- Flat, sturdy platforms for placing fountain to weigh
+- Water fountain
   
