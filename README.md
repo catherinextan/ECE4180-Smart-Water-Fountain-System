@@ -91,6 +91,10 @@ As full-time college students, we are busy and out of the house often. Sometimes
 Once everything is wired up, write the code for the mbed and build it. Once the hardware is setup, and the software is launched, the system will automatically start after the scale tares itself.
 ![image](https://github.com/catherinextan/ECE4180-Smart-Water-Fountain-System/assets/65838825/0ca1f010-acc6-49c3-a7a2-c96c1e90978b)
 
+## Schematics
+1. 4 Load Sensors wired to Load Cell Combinator board
+   - ![image](https://github.com/catherinextan/ECE4180-Smart-Water-Fountain-System/assets/65838825/f64a9f6d-e84b-4921-bfec-69b27c52d31d)
+
 ## Part 4 Instructions (Software for mbed)
 1. Import the library for the Load Cell Amplifier HX711 so that it will work with mbed.
    - We used Keil Studio IDE so we also had to add an "mbed_app.json" file that included this code snippet: 
