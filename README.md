@@ -103,4 +103,5 @@ Once everything is wired up, write the code for the mbed and build it. Once the 
     }
 }
 ```
-   - ![image](https://github.com/catherinextan/ECE4180-Smart-Water-Fountain-System/assets/65838825/b332d90e-e639-4e6b-9fa7-4aff029476bb)
+   - ![image](https://github.com/catherinextan/ECE4180-Smart-Water-Fountain-System/assets/65838825/c189cd30-c8ef-4486-a513-ceb3582b5697)
+
