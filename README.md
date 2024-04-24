@@ -62,8 +62,8 @@ As full-time college students, we are busy and out of the house often. Sometimes
 | CLK  | p6  |
 | GND  | GND  |
 3. Wire the RGB LED to the mbed LPC1768
-   - **note that our RGB LED had a common cathode going to GND
-   - **also ensure that each R/G/B pin on the LED is connected in series with 100Ohm resistor
+   - **note that our RGB LED had a common cathode going to GND**
+   - **also ensure that each R/G/B pin on the LED is connected in series with 100Ohm resistor**
 
 | RGB LED  | mbed |
 | ------------- | ------------- |
