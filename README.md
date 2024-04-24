@@ -23,5 +23,13 @@ As full-time college students, we are busy and out of the house often. Sometimes
 
 ## Part 1 Instructions (Soldering Load Cells to Combinator Board)
 1. Prepare the work area
-   - Clear a workspace for soldering
-   - Heat your soldering iron to the appropriate temperature (We used 650°F for lead-free solder)
+   - Clear a workspace for soldering.
+   - Heat your soldering iron to the appropriate temperature (We used 650°F for lead-free solder).
+2. Strip and Tin the Load Cell wires
+   - Use wire strippers to carefully strip 1-2cm of insulation from the ends of the wires coming from each load cell (should be 12 total).
+   - Twist the wires several times then apply a small amount of solder to the stripped ends of each wire.
+3. Solder the Load Cell Wires to the Combinator Board
+   - We used 3-wire load cells which match the Combinator Board as such:
+     - RED | C
+     - WHITE | +
+     - BLACK | -
