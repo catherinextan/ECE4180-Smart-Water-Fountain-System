@@ -88,4 +88,8 @@ As full-time college students, we are busy and out of the house often. Sometimes
 | in+  | p18  |
 | S  | p14  |
 
+Once everything is wired up, write the code for the mbed and build it. Once the hardware is setup, and the software is launched, the system will automatically start after the scale tares itself.
+![image](https://github.com/catherinextan/ECE4180-Smart-Water-Fountain-System/assets/65838825/0ca1f010-acc6-49c3-a7a2-c96c1e90978b)
+
+
 
