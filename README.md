@@ -94,7 +94,7 @@ Once everything is wired up, write the code for the mbed and build it. Once the 
 ## Part 4 Instructions (Software for mbed)
 1. Import the library for the Load Cell Amplifier HX711 so that it will work with mbed.
    - We used Keil Studio IDE so we also had to add an "mbed_app.json" file that included this code snippet: 
-```
+```ruby
 {
     "target_overrides": {
       "*": {
@@ -105,7 +105,7 @@ Once everything is wired up, write the code for the mbed and build it. Once the 
 ```
    - ![image](https://github.com/catherinextan/ECE4180-Smart-Water-Fountain-System/assets/65838825/c189cd30-c8ef-4486-a513-ceb3582b5697)
 2. Mbed code:
-```
+```ruby
 #include "cmsis_os.h"
 #include "mbed.h"
 #include "SDFileSystem.h"       
