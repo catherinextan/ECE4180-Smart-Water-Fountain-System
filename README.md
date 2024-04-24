@@ -22,3 +22,6 @@ As full-time college students, we are busy and out of the house often. Sometimes
 - Water fountain
 
 ## Part 1 Instructions (Soldering Load Cells to Combinator Board)
+1. Prepare the work area
+  - Clear a workspace for soldering
+  - Heat your soldering iron to the appropriate temperature (We used 650°F for lead-free solder)
