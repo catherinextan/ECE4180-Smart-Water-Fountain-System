@@ -53,5 +53,14 @@ As full-time college students, we are busy and out of the house often. Sometimes
 | WHT  | WHT  |
 | GRN  | GRN  |
 | YLW  | YLW  |
+2. Wire the Load Cell Amplifier HX711 to the mbed LPC1768
+
+| Amplifier HX711  | mbed |
+| ------------- | ------------- |
+| VCC  | 3.3V Vout  |
+| DAT  | p5  |
+| CLK  | p6  |
+| GND  | GND  |
+
 
 
