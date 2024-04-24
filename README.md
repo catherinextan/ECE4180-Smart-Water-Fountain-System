@@ -18,7 +18,7 @@ As full-time college students, we are busy and out of the house often. Sometimes
 - 1x [Sparkfun Accessories Speaker - PCB Mount](https://www.electromaker.io/shop/product/speaker-pcb-mount?gad_source=1&gclid=CjwKCAjwuJ2xBhA3EiwAMVjkVEWHcDyhnI3EJPf082CJfzoy2JA1GvtTF2LUusRH2YvoY_jHlv0_uRoCpioQAvD_BwE)
 - 1x [Sparkfun Mono Audio Amp Breakout - TPA2005D1](https://www.sparkfun.com/products/11044)
 ## Structural Parts List:
-- Flat, sturdy platforms for placing fountain to weigh
+- 2x Flat, sturdy platforms for placing fountain to weigh
 - Water fountain
 
 ## Part 1 Instructions (Soldering Load Cells to Combinator Board)
@@ -31,6 +31,13 @@ As full-time college students, we are busy and out of the house often. Sometimes
 3. Solder the Load Cell Wires to the Combinator Board
    - We used 3-wire load cells which match the Combinator Board as such:
      - ![image](https://github.com/catherinextan/ECE4180-Smart-Water-Fountain-System/assets/65838825/d2c32d04-e73f-4688-b66d-c4b3c0c8735a)
+     - ![image](https://github.com/catherinextan/ECE4180-Smart-Water-Fountain-System/assets/65838825/95c091a6-4620-4164-875a-730c75212c14)
+4. Ensure connections are good by inspection and gently tugging on each wire to make sure they are secure
+
+## Part 2 Instructions (Structural Setup)
+1. Take 1 flat, sturdy platform and align each load cell equidistant from each other on top.
+   - ![image](https://github.com/catherinextan/ECE4180-Smart-Water-Fountain-System/assets/65838825/d76bbcea-90ce-4c36-906d-068f81e08905)
+
 
 
 
