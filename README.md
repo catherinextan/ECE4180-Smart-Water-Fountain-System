@@ -1,4 +1,4 @@
-# ECE4180-Smart-Water-Fountain-System
+A# ECE4180-Smart-Water-Fountain-System
 ECE4180 Spring 2024 Final Project Section B | Georgia Institute of Technology  
 Dylan Jarvis and Catherine Tan   
 
@@ -30,6 +30,7 @@ As full-time college students, we are busy and out of the house often. Sometimes
    - Twist the wires several times then apply a small amount of solder to the stripped ends of each wire.
 3. Solder the Load Cell Wires to the Combinator Board
    - We used 3-wire load cells which match the Combinator Board as such:
-     - ![image](https://github.com/catherinextan/ECE4180-Smart-Water-Fountain-System/assets/65838825/3589495c-0fec-4f9d-bf15-52286403d176)
+     - ![image](https://github.com/catherinextan/ECE4180-Smart-Water-Fountain-System/assets/65838825/d2c32d04-e73f-4688-b66d-c4b3c0c8735a)
+
 
 
