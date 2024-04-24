@@ -94,6 +94,9 @@ Once everything is wired up, write the code for the mbed and build it. Once the 
 ## Schematics
 1. 4 Load Sensors wired to Load Cell Combinator board
    - ![image](https://github.com/catherinextan/ECE4180-Smart-Water-Fountain-System/assets/65838825/f64a9f6d-e84b-4921-bfec-69b27c52d31d)
+2. Complete schematic
+   - ![Complete Schematic_bb](https://github.com/catherinextan/ECE4180-Smart-Water-Fountain-System/assets/65838825/f8c70328-7784-4b0d-9b6d-240444aa458a)
+
 
 ## Part 4 Instructions (Software for mbed)
 1. Import the library for the Load Cell Amplifier HX711 so that it will work with mbed.
