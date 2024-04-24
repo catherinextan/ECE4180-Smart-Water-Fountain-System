@@ -38,6 +38,8 @@ As full-time college students, we are busy and out of the house often. Sometimes
 1. Take 1 flat, sturdy platform and align each load cell equidistant from each other on top.
    - ![image](https://github.com/catherinextan/ECE4180-Smart-Water-Fountain-System/assets/65838825/d76bbcea-90ce-4c36-906d-068f81e08905)
 2. Place the second flat, sturdy platform on top of the load cells and ensure the point of contact is equal on all 4. This will act as the "scale" to weigh the water fountain and guage the water level.
+   - ![image](https://github.com/catherinextan/ECE4180-Smart-Water-Fountain-System/assets/65838825/ab68e6a3-8107-4f02-8ed4-de4d17b1ce47)
+
 
 
 
