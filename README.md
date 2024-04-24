@@ -44,6 +44,13 @@ As full-time college students, we are busy and out of the house often. Sometimes
 
 
 ## Part 3 Instructions (Hardware Setup)
-
+1. Wire the Load Cell Combinator Board to the Load Cell Amplifier HX711. 
+| Combinator  | Amplifier HX711 |
+| ------------- | ------------- |
+| RED  | RED  |
+| BLK  | BLK  |
+| WHT  | WHT  |
+| GRN  | GRN  |
+| YLW  | YLW  |
 
 
