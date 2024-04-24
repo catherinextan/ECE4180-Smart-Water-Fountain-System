@@ -1,11 +1,10 @@
 # ECE4180-Smart-Water-Fountain-System
+ECE4180 Spring 2024 Final Project Section B | Georgia Institute of Technology  
+Dylan Jarvis and Catherine Tan   
+
 ## Overview
 The Smart Water Fountain System is a solution designed to ensure our cats always have access to fresh, flowing water. Using Sparkfun Load Cells for water level monitoring, this system gives visual and audible cues to pet owners as a reminder to refill the fountain.
 
-Developed by:  
-Dylan Jarvis and Catherine Tan   
-ECE4180 Section B  
-Spring 2024  
 
 ## Electronics Parts List:
 - 4x [Sparkfun Load Sensors - 50kg (Generic)](https://www.sparkfun.com/products/10245)
