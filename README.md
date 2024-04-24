@@ -1,4 +1,4 @@
-A# ECE4180-Smart-Water-Fountain-System
+## ECE4180-Smart-Water-Fountain-System
 ECE4180 Spring 2024 Final Project Section B | Georgia Institute of Technology  
 Dylan Jarvis and Catherine Tan   
 
