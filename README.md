@@ -22,18 +22,18 @@ As full-time college students, we are busy and out of the house often. Sometimes
 - Water fountain
 
 ## Part 1 Instructions (Soldering Load Cells to Combinator Board)
-1. Prepare the work area
+1. Prepare the work area.
    - Clear a workspace for soldering.
    - Heat your soldering iron to the appropriate temperature (We used 650°F for lead-free solder).
-2. Strip and Tin the Load Cell wires
+2. Strip and Tin the Load Cell wires.
    - Use wire strippers to carefully strip 1-2cm of insulation from the ends of the wires coming from each load sensor (should be 12 total).
    - Twist the wires several times then apply a small amount of solder to the stripped ends of each wire.
-3. Solder the Load Cell Wires to the Combinator Board
+3. Solder the Load Cell Wires to the Combinator Board.
    - We used four 3-wire load sensors which match the Combinator Board as such:
      - ![image](https://github.com/catherinextan/ECE4180-Smart-Water-Fountain-System/assets/65838825/d2c32d04-e73f-4688-b66d-c4b3c0c8735a)
-     - Make sure to keep track of which load sensors are placed where in regards to Upper Left (UL), Upper Right (UR), Lower Left (LL) and Lower Right (LR)
+     - Make sure to keep track of which load sensors are placed where in regards to Upper Left (UL), Upper Right (UR), Lower Left (LL) and Lower Right (LR).
      - ![image](https://github.com/catherinextan/ECE4180-Smart-Water-Fountain-System/assets/65838825/95c091a6-4620-4164-875a-730c75212c14)
-4. Ensure connections are good by inspection and gently tugging on each wire to make sure they are secure
+4. Ensure connections are good by inspection and gently tugging on each wire to make sure they are secure.
 
 ## Part 2 Instructions (Structural Setup)
 1. Take 1 flat, sturdy platform and align each load cell equidistant from each other on top.
