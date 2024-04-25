@@ -5,6 +5,7 @@ Dylan Jarvis and Catherine Tan
 ## Overview
 The Smart Water Fountain System is a solution designed to ensure our cats always have access to fresh, flowing water. Using Sparkfun Load Cells for water level monitoring, this system gives visual and audible cues to pet owners as a reminder to refill the fountain.
 
+[![Smart Water Fountain System](https://img.youtube.com/vi/2yHxUJqw9kU&ab_channel=CatherineTan/0.jpg)](https://www.youtube.com/watch?v=2yHxUJqw9kU&ab_channel=CatherineTan)
 
 ## Background Information
 As full-time college students, we are busy and out of the house often. Sometimes, we notice our cats' water fountain has stopped flowing from the spout because the water level is so low. However, we do not know how long it has stopped or how long they have gone without water unless we physically check inside the fountain. We did not want to have to buy a different fountain that has a water level guage since our cats are already used to their current one. Therefore, we decided to build a system that would notify us of the water level visually and audibly remind us to refill it. This ensures they will have access to fresh water and reduce the risk of dehydration, which cats are more prone to. 
