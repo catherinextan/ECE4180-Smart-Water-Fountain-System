@@ -22,6 +22,9 @@ As full-time college students, we are busy and out of the house often. Sometimes
 - 2x Flat, sturdy platforms for placing fountain to weigh
 - Water fountain
 
+## Block Diagram
+![ece4180 final block diagram drawio](https://github.com/catherinextan/ECE4180-Smart-Water-Fountain-System/assets/65838825/1c98ec8d-3451-4fec-a8f0-f502ea172bbb)
+
 ## Part 1 Instructions (Soldering Load Cells to Combinator Board)
 1. Prepare the work area.
    - Clear a workspace for soldering.
