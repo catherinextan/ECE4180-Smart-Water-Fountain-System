@@ -220,10 +220,10 @@ int main(void) {
 ```
 
 ## Finished Product 
-# LOW water level | RED LED
-![image](https://github.com/catherinextan/ECE4180-Smart-Water-Fountain-System/assets/65838825/245879e4-78c7-43d7-84a3-cde97fa0b669)
-# GOOD water level | BLUE LED
+### LOW water level | RED LED
+![image](https://github.com/catherinextan/ECE4180-Smart-Water-Fountain-System/assets/65838825/ab0bcad6-e1dd-4af3-b007-f120eb9e2e86)
+### GOOD water level | BLUE LED
 ![image](https://github.com/catherinextan/ECE4180-Smart-Water-Fountain-System/assets/65838825/357e7e62-6def-4ebf-9023-0f24d4991b64)
-# FULL water level | GREEN LED
+### FULL water level | GREEN LED
 ![image](https://github.com/catherinextan/ECE4180-Smart-Water-Fountain-System/assets/65838825/2911c2a5-1a2e-4718-b277-fde45f0850d1)
 
