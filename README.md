@@ -23,7 +23,8 @@ As full-time college students, we are busy and out of the house often. Sometimes
 - Water fountain
 
 ## Block Diagram
-![ece4180 final block diagram drawio](https://github.com/catherinextan/ECE4180-Smart-Water-Fountain-System/assets/65838825/1c98ec8d-3451-4fec-a8f0-f502ea172bbb)
+![ece4180 final block diagram drawio (1)](https://github.com/catherinextan/ECE4180-Smart-Water-Fountain-System/assets/65838825/645450a8-cec4-4cbb-ab5d-56df1e4bfaa4)
+
 
 ## Part 1 Instructions (Soldering Load Cells to Combinator Board)
 1. Prepare the work area.
