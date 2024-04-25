@@ -17,6 +17,7 @@ As full-time college students, we are busy and out of the house often. Sometimes
 - 1x [mbed LPC1768](https://www.sparkfun.com/products/retired/9564)
 - 1x [Sparkfun Accessories Speaker - PCB Mount](https://www.electromaker.io/shop/product/speaker-pcb-mount?gad_source=1&gclid=CjwKCAjwuJ2xBhA3EiwAMVjkVEWHcDyhnI3EJPf082CJfzoy2JA1GvtTF2LUusRH2YvoY_jHlv0_uRoCpioQAvD_BwE)
 - 1x [Sparkfun Mono Audio Amp Breakout - TPA2005D1](https://www.sparkfun.com/products/11044)
+- 1x [Sparkfun microSD Transflash Breakout](https://www.sparkfun.com/products/544)
 ## Structural Parts List:
 - 2x Flat, sturdy platforms for placing fountain to weigh
 - Water fountain
@@ -87,6 +88,17 @@ As full-time college students, we are busy and out of the house often. Sometimes
 | pwr+  | 3.3V Vout  |
 | in+  | p18  |
 | S  | p14  |
+6. Wire microSD Transflash Breakout to mbed LPC1768
+
+| microSD Transflash Breakout  | mbed |
+| ------------- | ------------- |
+| CS  | p8  |
+| DI  | p11  |
+| Vcc  | 3.3V Vout  |
+| SCK  | p13  |
+| GND  | GND  |
+| DO  | p12  |
+| CD  | NC  |
 
 Once everything is wired up, write the code for the mbed and build it. Once the hardware is setup, and the software is launched, the system will automatically start after the scale tares itself.
 ![image](https://github.com/catherinextan/ECE4180-Smart-Water-Fountain-System/assets/65838825/0ca1f010-acc6-49c3-a7a2-c96c1e90978b)
@@ -95,7 +107,8 @@ Once everything is wired up, write the code for the mbed and build it. Once the 
 1. 4 Load Sensors wired to Load Cell Combinator board
    - ![image](https://github.com/catherinextan/ECE4180-Smart-Water-Fountain-System/assets/65838825/f64a9f6d-e84b-4921-bfec-69b27c52d31d)
 2. Complete schematic
-   - ![Complete Schematic_bb](https://github.com/catherinextan/ECE4180-Smart-Water-Fountain-System/assets/65838825/f8c70328-7784-4b0d-9b6d-240444aa458a)
+   - ![complete schematic w sd card_bb](https://github.com/catherinextan/ECE4180-Smart-Water-Fountain-System/assets/65838825/c400d4d7-5a2f-47bc-ba58-e6164e2d3348)
+
 
 
 ## Part 4 Instructions (Software for mbed)
