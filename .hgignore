@@ -1,0 +1,13 @@
+^BUILD$
+^.mbed$
+^compile_commands.json$
+^.clangd$
+^.cache$
+^mbed-rtos$
+^mbed$
+^4DGL-uLCD-SE$
+^SDFileSystem_OldbutworkswithRTOS$
+^wave_player$
+^SDFileSystem$
+^mbed-hx711$
+^mbed_lib-hx711_loadcell$
